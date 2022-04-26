@@ -6,3 +6,4 @@ Intended to serve as a partial fulfillment to the Near Certification course.
 
 - ReactJS
 - Rust
+- Near-sdk-rs
